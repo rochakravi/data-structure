@@ -9,9 +9,8 @@ public class Application {
 	public static void main(String arg[]) {
 		
 		Application obj = new Application();
-		
-		
-		// Linked List
+	
+		// Linked List basics
 		
 		LinkedList lklist = new LinkedList();
 		
